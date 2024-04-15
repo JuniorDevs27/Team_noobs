@@ -11,6 +11,10 @@ Our app offers predictive analysis for diabetes, heart disease, and Parkinson's 
 # Video Calling - using WebRTC
 ![Screenshot (15)](https://github.com/JuniorDevs27/Team_noobs/assets/161307337/f5425634-acbe-4372-97ba-9b6903e3d098)
 
+# Medical Chatbot - powered by GPT-3.5
+![chtabot](https://github.com/JuniorDevs27/Team_noobs/assets/161307337/97afaee1-f275-4118-8eb6-9c5054a3bee0)
+
+
 https://multiple-disease-predictor-1.streamlit.app/ - Multiple Disease Predictor
 https://ihavenoname.netlify.app/ - ChatAppication
 https://vdo-conf-final.vercel.app/ - Video Calling App
