@@ -23,3 +23,6 @@ https://vdo-conf-final.vercel.app/ - Video Calling App
 https://chat-bot-jet-zeta.vercel.app/ - ChatBot
 https://medicine-reminder-tawny.vercel.app/- Medicine Reminder App
 
+# Sources used
+Google, YouTube, Geeks for geeks, W3schools, Mozilla Developer Network (MDN) 
+
