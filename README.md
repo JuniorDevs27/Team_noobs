@@ -1,4 +1,4 @@
-# An all-in-one Healthcare application
+# DrKnowItAll - An all-in-one Healthcare application
 
 Our app offers predictive analysis for diabetes, heart disease, and Parkinson's disease based on user-provided data. Engage in real-time video calls with healthcare professionals for immediate assistance and guidance. Never miss a dose with our medication reminder feature, customizable to your schedule, and receive timely email alerts. Access our 24x7 medical chatbot for instant answers to your healthcare queries. Join us in revolutionizing healthcare accessibility and empowerment!
 
