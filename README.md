@@ -2,7 +2,7 @@
 
 Our app offers predictive analysis for diabetes, heart disease, and Parkinson's disease based on user-provided data. Engage in real-time video calls with healthcare professionals for immediate assistance and guidance. Never miss a dose with our medication reminder feature, customizable to your schedule, and receive timely email alerts. Access our 24x7 medical chatbot for instant answers to your healthcare queries. Join us in revolutionizing healthcare accessibility and empowerment!
 
-# Easy to use UI
+# Easy to use UI - built with HTML, CSS and JS
 ![Screenshot (13)](https://github.com/JuniorDevs27/Team_noobs/assets/161307337/b638d2e8-32bc-43c0-9c50-51d0ed76a127)
 
 # Disease Predictor - using Machine Learning
@@ -14,6 +14,8 @@ Our app offers predictive analysis for diabetes, heart disease, and Parkinson's 
 # Medical Chatbot - powered by GPT-3.5
 ![chtabot](https://github.com/JuniorDevs27/Team_noobs/assets/161307337/97afaee1-f275-4118-8eb6-9c5054a3bee0)
 
+
+# All Features are hosted on individual servers - which provide the users to access them without speed limitations
 
 https://multiple-disease-predictor-1.streamlit.app/ - Multiple Disease Predictor
 https://ihavenoname.netlify.app/ - ChatAppication
